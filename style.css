@@ -1,0 +1,26 @@
+body {
+    background-color: bisque;
+    }
+.just {
+    display: flex;
+    justify-content: space-between;
+}
+img {
+    width: 25%;
+}
+h1, p {
+    text-align: center;
+}
+.align-self {
+    display: flex;
+    align-self: flex-start;
+}
+.align-items {
+    display: flex;
+    align-items: flex-end;
+    height: 400px;
+}
+.flex-wrap {
+    display: flex;
+    flex-wrap: wrap;
+}
